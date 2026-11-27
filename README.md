@@ -4,7 +4,7 @@ An illustrative 45-year financial feasibility model for a hypothetical 150-acre 
 
 > **Important:** This is an independent portfolio case study, not an official estimate, valuation, feasibility report, bid model, or forecast for the actual Nagpur MMLP. The operating, financing, construction, and cost assumptions are illustrative. Do not use the outputs for an investment or lending decision.
 
-![MMLP model dashboard](assets/dashboard-preview.png)
+![MMLP model dashboard](dashboard-preview.png)
 
 ## Project objectives
 
